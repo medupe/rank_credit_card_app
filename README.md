@@ -1,16 +1,16 @@
 # credit_card_app
 
-A new Flutter project.
+credit card app  allow  admins to submit credit card numbers for validation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+to run the app
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the app
+2. Type `cd credit_card_app` on your  terminal
+3. Type `flutter run` on your terminal to build and run the project on      your  device.
+4. Alternatively open project with your IDE and buld and run the project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Please note that credit card scanner  is not available on Huawei devices becuase it use google services. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For support contact me on `molepom7@gmail.com`
